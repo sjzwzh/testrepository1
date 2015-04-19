@@ -13,6 +13,8 @@
 #include<iostream>
 using namespace std;
 #include<string.h>
+/*this is first modify*/
+/*thsi is second modify*/
 int main(int argc, char * argv[]){
  /*   GtkWidget * window;
     gtk_init(&argc, &argv);
